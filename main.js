@@ -2,6 +2,7 @@
 
 import Race from "./script.js";
 
-let carrera = new Race();
-//console.log(filtro.filtroDeEratosthenes());
+let velocidad = new Race();
+
+console.log(velocidad.carrera());
 
